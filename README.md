@@ -1,1 +1,1 @@
-# picky
+# picky project
