@@ -15,7 +15,7 @@
 
 
 ## 1. Manual Testing
-[Picky onlined shopping.xlsx](https://github.com/prothoma-bd/pickymain/Picky onlined shopping.xlsx)
+[Picky onlined shopping Test case](https://github.com/prothoma-bd/picky/blob/main/picky_onlined_shopping.xlsx)
 
 ## 2. Writing Test Cases
 
