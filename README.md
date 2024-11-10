@@ -12,14 +12,14 @@
 
 ## Assignment Task
 
-## 1. Manual Testing
+### 1. Manual Testing
 [Picky](https://www.picky.com.bd/) 
 
-## 2. Writing Test Cases
+### 2. Writing Test Cases
 [Picky onlined shopping Test case](https://github.com/prothoma-bd/picky/blob/main/picky_onlined_shopping.xlsx)
 
-## 3. Mind Mapping 
+### 3. Mind Mapping 
 
-![alt text](picky-1.png)
+![Mind Map](picky.png)
 
 
